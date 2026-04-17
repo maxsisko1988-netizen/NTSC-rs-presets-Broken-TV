@@ -16,3 +16,5 @@ VHS-tape ntsc-rs 1.0
 <img width="797" height="595" alt="ntsc-rs — images png 17 04 2026 23_28_43" src="https://github.com/user-attachments/assets/2587da1b-a202-4730-82b9-fd5b43bbcb49" />
 
 
+alternative ntsc-rs
+<img width="797" height="595" alt="ntsc-rs — images png 17 04 2026 23_32_08" src="https://github.com/user-attachments/assets/2eb312d5-6774-403f-9954-4696dcc15989" />
