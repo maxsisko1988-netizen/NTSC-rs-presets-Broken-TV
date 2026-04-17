@@ -10,3 +10,9 @@ Signal interception
 
 “Low Band VHS Rip
 <img width="800" height="600" alt="ntsc-rs — images png 17 04 2026 23_25_41" src="https://github.com/user-attachments/assets/5fdda0a1-f381-44cb-b07c-d262eccd5229" />
+
+
+VHS-tape ntsc-rs 1.0
+<img width="797" height="595" alt="ntsc-rs — images png 17 04 2026 23_28_43" src="https://github.com/user-attachments/assets/2587da1b-a202-4730-82b9-fd5b43bbcb49" />
+
+
